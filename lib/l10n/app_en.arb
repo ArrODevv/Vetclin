@@ -1,0 +1,6 @@
+{
+  "hw": "Hello, World!",
+  "@hw": {
+    "description": "The conventional newborn programmer meeting."
+  }
+}

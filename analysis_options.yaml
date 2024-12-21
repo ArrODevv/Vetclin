@@ -1,0 +1,10 @@
+# The following line activates a set of recommended lints for Flutter apps,
+# packages, and plugins designed to encourage good coding practices.
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_single_quotes: true # IMO this makes the code look cleaner "String" --> 'String'
+
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options
