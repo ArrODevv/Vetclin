@@ -13,3 +13,6 @@ If you want to help translate this project to other languages see this `wiki pag
 
 ### Other changes (Code, features, bug-fixes, etc...)
 Just open a [Pull request](https://github.com/ArrODevv/Vetclin/pulls) and I'll review it as fast as possible :)
+
+## NOTE
+This is my first (semi-)professional project on github, so if I make any errors or if there are improvements to this repo, please notify me. (See my [bio](https://github.com/ArrODevv) for contact options.)
