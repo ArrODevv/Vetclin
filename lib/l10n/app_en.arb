@@ -1,6 +1,18 @@
 {
-  "hw": "Hello, World!",
-  "@hw": {
-    "description": "The conventional newborn programmer meeting."
+  "overview": "Overview",
+  "@overview": {
+    "description": "The overview navigation rail destination label."
+  },
+  "calendar": "Calendar",
+  "@overview": {
+    "description": "The calendar navigation rail destination label."
+  },
+  "settings": "Settings",
+  "@overview": {
+    "description": "The settings navigation rail destination label."
+  },
+  "about": "about this software",
+  "@about": {
+    "description": "The text for the about button in the navigation rail."
   }
 }

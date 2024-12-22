@@ -9,5 +9,14 @@ class AppLocalizationsDe extends AppLocalizations {
   AppLocalizationsDe([String locale = 'de']) : super(locale);
 
   @override
-  String get hw => 'Hallo, Welt!';
+  String get overview => 'Überblick';
+
+  @override
+  String get calendar => 'Kalender';
+
+  @override
+  String get settings => 'Einstellungen';
+
+  @override
+  String get about => 'über diese Software';
 }

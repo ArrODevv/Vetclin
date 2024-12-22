@@ -1,3 +1,6 @@
 {
-  "hw": "Hallo, Welt!"
+  "overview": "Überblick",
+  "calendar": "Kalender",
+  "settings": "Einstellungen",
+  "about": "über diese Software"
 }

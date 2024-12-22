@@ -95,11 +95,29 @@ abstract class AppLocalizations {
     Locale('en')
   ];
 
-  /// The conventional newborn programmer meeting.
+  /// The settings navigation rail destination label.
   ///
   /// In en, this message translates to:
-  /// **'Hello, World!'**
-  String get hw;
+  /// **'Overview'**
+  String get overview;
+
+  /// No description provided for @calendar.
+  ///
+  /// In en, this message translates to:
+  /// **'Calendar'**
+  String get calendar;
+
+  /// No description provided for @settings.
+  ///
+  /// In en, this message translates to:
+  /// **'Settings'**
+  String get settings;
+
+  /// The text for the about button in the navigation rail.
+  ///
+  /// In en, this message translates to:
+  /// **'about this software'**
+  String get about;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
